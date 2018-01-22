@@ -8,18 +8,27 @@ What value do you think it offers?
 The staging area contains files to be committed. It makes you thinkg about what files should be included in a commit.
 
 
-
-
-How can you use the staging area to make sure you have one commit per logical
+How can you use the staging area to make sure you have one commit per logical 
 change?
+Not sure.
 
-What are some situations when branches would be helpful in keeping your history
+
+
+What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
+When you want to make major changes or experiment. Branches keep the versions isolated from each other.
 
 How do the diagrams help you visualize the branch structure?
+By seeing what commits are part of each branch.
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Changes from each branch are combined into one.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+ 
